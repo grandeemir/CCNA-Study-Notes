@@ -8,10 +8,8 @@ This repository contains my personal notes, configurations, diagrams, and resour
 
 💡 How to Use These Notes
 
-    Clone the Repository:
-    Bash
+    git clone [https://github.com/grandeemir/CCNA-Study-Notes]
 
-git clone [https://github.com/grandeemir/CCNA-Study-Notes]
 
 Navigate by Topic: Dive into the topic folders (e.g., 01_Network_Fundamentals/).
 

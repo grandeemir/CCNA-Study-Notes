@@ -1,6 +1,6 @@
 # CCNA Study Notes
 
-# All my notes is Here --> [![GitHub Wiki]([https://img.shields.io/badge/Documentation-Wiki-blue)](https://github.com/grandeemir/Homelab/wiki](https://github.com/grandeemir/CCNA-Study-Notes/wiki))
+# All my notes is Here --> ![GitHub Wiki](https://github.com/grandeemir/Homelab/wiki](https://github.com/grandeemir/CCNA-Study-Notes/wiki))
 
 📝 CCNA 200-301 v1.1 Study Notes
 
